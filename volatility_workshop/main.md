@@ -23,6 +23,7 @@ The exercise we will do is under the Task 16 header
 ## 4) Questions for the third part of the workshop
 ### Advanced Questions: Part 2
 ### Obtain the file hash for mysterygift.exe file and search for it on virustotal.com to answer the following questions
+#### https://www.virustotal.com/gui/home/search
 #### a) How many security vendors flagged the file as malicious?
 #### b) According to the file's history, what was the file creation time?
 #### c) What domain name is associated with this file?
