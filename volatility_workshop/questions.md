@@ -6,16 +6,22 @@
 ### What is the Process ID (PID) of this binary?
 ### Dump the contents of this binary. How many files are dumped?
 >
+>
 ## Extra Workshop Questions
 ### Q1 What process created the mysterygift.exe file?
 >
+>
 ### Q2 According to the memory dump command-line history, what suspicious file is opened by notepad.exe? (include the full file path)
+>
 >
 ### Q3 According to he memory dump file's networking information, what program is associated with the local port 80? What about foreign port 80?
 >
+>
 ### Q4 Look at the running processes. What is the parent process of the mysterygift.exe file?
 >
+>
 ### Q5 According to the Windows registry files, what is the name of the localhost?
+>
 >
 
 ## Obtain the file hash for mysterygift.exe file and search for it on virustotal.com to answer the following questions
