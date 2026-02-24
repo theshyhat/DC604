@@ -21,6 +21,7 @@ We'll list them here in order of "difficulty"
 * great for people who are new to computers and tech
 * requires no tech setup to solve most challenges
 * some language awkwardness - the website is originally in German
+* challenges may be considered "too easy" or "boring" to CTF veterans
 ## [OLIcyber](https://training.olicyber.it)
 * great for new learners - introduction challenges are very well-written
 * covers web exploitation, reverse engineering, binary exploitation, digital forensics (PCAP), and cryptography
