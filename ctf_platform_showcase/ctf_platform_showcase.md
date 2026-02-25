@@ -15,6 +15,8 @@ We'll list them here in order of "difficulty"
 
 [Vulnyx](https://vulnyx.com)
 
+[Pwned Labs](https://pwnedlabs.io)
+
 [Standoff 365](https://standoff365.com)
 
 ## [Hack The Web](https://hack.arrrg.de)
@@ -47,6 +49,11 @@ We'll list them here in order of "difficulty"
 * primarily covers network service hacking and web app hacking, but also includes reverse engineering, digital and OSINT
 * assumes you have access to a Linux system with security tools and the ability to download and deploy virtual machines
 * includes a selection of Windows OS hacking challenges (13)
+## [Pwned Labs](https://pwnedlabs.io)
+* good for cloud security learners, especially AWS cloudsec
+* has a whole slew of AWS challenges, including guided modes, as well as a few Azure ones
+  * paid access offers even more cloud materials, cyber ranges, bootcamps, etc
+* assumes you have access to a Linux system with security tools and the ability to use a VPN service to access their private network
 ## [Standoff 365](https://standoff365.com)
 * good for intermediate learners of network service hacking and web app hacking
 * features a multi-host network environment to hack against
