@@ -13,11 +13,15 @@
 ## Topic 4: Cookies
   * Pico: Power Cookie (https://learn.cylabacademy.org/library/288)
   * Pico: Logon (https://learn.cylabacademy.org/library/46)
-  * Pico Logon (https://play.picoctf.org/practice/challenge/46)
-## Topic 5: HTTP Header and HTTP Header Injection 
+  * Pico: Cookie Monster Secret Recipe (https://learn.cylabacademy.org/library/469)
+## Topic 5: HTTP Headers and HTTP Header Injection 
+  * Pico: Crack the Gate 1 (https://learn.cylabacademy.org/library/520)
+  * Pico: Picobrowser (https://learn.cylabacademy.org/library/9)
 ## Topic 6: SQL Injection Basics - Login Auth Bypass
+  * Pico: Irish Name Repo 1 (https://learn.cylabacademy.org/library/80)
+  * Pico: SQLiLite (https://learn.cylabacademy.org/library/304)
 ## Topic 7: IDOR (Insecure Direct Object Reference)
-
+  * Pico: Cookies (https://learn.cylabacademy.org/library/173)
 
 
 
