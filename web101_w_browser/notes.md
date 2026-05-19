@@ -1,5 +1,4 @@
 # Web App Security 101 with Just a Web Browser
-## Topics / PicoCTF Challenges
 ## Topic 1: Accessing HTTP source
   * Pico Inspect HTML (https://learn.cylabacademy.org/library/275)
   * Pico Unminify (https://learn.cylabacademy.org/library/426)
@@ -22,6 +21,7 @@
   * Pico: SQLiLite (https://learn.cylabacademy.org/library/304)
 ## Topic 7: IDOR (Insecure Direct Object Reference)
   * Pico: Cookies (https://learn.cylabacademy.org/library/173)
-
-
+## Topic 8: Extra Challenges
+  * Pico: Scavenger Hunt (https://learn.cylabacademy.org/library/161)
+  * 
 
