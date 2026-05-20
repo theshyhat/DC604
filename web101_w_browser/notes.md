@@ -17,18 +17,21 @@ Pico [Where Are The Robots?](https://learn.cylabacademy.org/library/4)
 
 Pico [Roboto Sans](https://learn.cylabacademy.org/library/291)
 ## Topic 4: Cookies
-  * Pico: Power Cookie (https://learn.cylabacademy.org/library/288)
-  * Pico: Logon (https://learn.cylabacademy.org/library/46)
-  * Pico: Cookie Monster Secret Recipe (https://learn.cylabacademy.org/library/469)
+Pico [Power Cookie](https://learn.cylabacademy.org/library/288)
+
+Pico [Logon](https://learn.cylabacademy.org/library/46)
+
+Pico [Cookie Monster Secret Recipe](https://learn.cylabacademy.org/library/469)
 ## Topic 5: HTTP Headers and HTTP Header Injection 
-  * Pico: Crack the Gate 1 (https://learn.cylabacademy.org/library/520)
-  * Pico: Picobrowser (https://learn.cylabacademy.org/library/9)
+Pico [Crack the Gate 1](https://learn.cylabacademy.org/library/520)
+
+Pico [Picobrowser](https://learn.cylabacademy.org/library/9)
 ## Topic 6: SQL Injection Basics - Login Auth Bypass
-  * Pico: Irish Name Repo 1 (https://learn.cylabacademy.org/library/80)
-  * Pico: SQLiLite (https://learn.cylabacademy.org/library/304)
-## Topic 7: IDOR (Insecure Direct Object Reference)
-  * Pico: Cookies (https://learn.cylabacademy.org/library/173)
-## Topic 8: Extra Challenges
-  * Pico: Scavenger Hunt (https://learn.cylabacademy.org/library/161)
-  * 
+Pico [Irish Name Repo 1](https://learn.cylabacademy.org/library/80)
+
+Pico [SQLiLite](https://learn.cylabacademy.org/library/304)
+## Topic 7: Capstone Challenges
+Pico [Cookies](https://learn.cylabacademy.org/library/173)
+
+Pico [Scavenger Hunt](https://learn.cylabacademy.org/library/161)
 
