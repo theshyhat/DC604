@@ -1,4 +1,7 @@
 # Web App Security 101 with Just a Web Browser
+## CyLab Signup Page
+If you don't have an account at CyLab, you can create an account [here](https://learn.cylabacademy.org/register)
+
 ## Topic 1: Accessing HTTP source
   * Pico Inspect HTML (https://learn.cylabacademy.org/library/275)
   * Pico Unminify (https://learn.cylabacademy.org/library/426)
