@@ -1,6 +1,9 @@
 # Web App Security 101 with Just a Web Browser
-## CyLab Signup Page
+## Pre-Start Links
+### CyLab Signup Page
 If you don't have an account at CyLab, you can create an account [here](https://learn.cylabacademy.org/register)
+### Firefox Web Browser Download Page
+If you don't have the Firefox web browser on your device, download it [here](https://www.firefox.com/en-US/download/all/desktop-release/)
 
 ## Topic 1: Accessing HTTP source
 Pico [Inspect HTML](https://learn.cylabacademy.org/library/275)
@@ -22,6 +25,10 @@ Pico [Power Cookie](https://learn.cylabacademy.org/library/288)
 Pico [Logon](https://learn.cylabacademy.org/library/46)
 
 Pico [Cookie Monster Secret Recipe](https://learn.cylabacademy.org/library/469)
+## ! Suddenly AI Hacking !
+### AI Chatbot Hacking Game
+[Lakera.ai - Gandalf](https://gandalf.lakera.ai/baseline)
+
 ## Topic 5: HTTP Headers and HTTP Header Injection 
 Pico [Crack the Gate 1](https://learn.cylabacademy.org/library/520)
 
