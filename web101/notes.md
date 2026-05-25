@@ -31,8 +31,14 @@ YXJtcywgdGhlbiBzaXQgZG93biBhZ2Fpbg==`
 
 [Deciphering ROT13](https://cyberchef.io/#recipe=ROT13(true,true,false,13))
 Sample Strings to Decipher
-``
-``
+
+String 1
+
+`Va EBG13, ahzoref naq chapghngvba ner abg punatrq.`
+
+String 2
+
+`Vs lbh frr n zrffntr jvgu n ohapu bs fcnprf, vg'f cebonoyl abg Onfr64 rapbqvat.`
 
 Pico [Where Are The Robots?](https://learn.cylabacademy.org/library/4)
 
