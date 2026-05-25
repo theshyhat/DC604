@@ -16,6 +16,17 @@ Pico [Don't Use Client Side](https://learn.cylabacademy.org/library/66)
 
 Pico [Local Authority](https://learn.cylabacademy.org/library/278)
 ## Part 3: Robots.txt and Data Obfuscation
+[Deciphering Base64](https://cyberchef.io/#recipe=From_Base64('A-Za-z0-9%2B/%3D',true))
+Sample Strings to Decipher
+`dGhpcyBjb3VsZCBiZSBhIHN1cGVyIHNlY3JldCBwYXNzd29yZA==`
+`aWYgeW91IGRlY2lwaGVyZWQgdGhpcyBzdHJpbmcsIHN0YW5kIHVwIGFuZCBsaWZ0IHVwIHlvdXIg
+YXJtcywgdGhlbiBzaXQgZG93biBhZ2Fpbg==`
+
+[Deciphering ROT13](https://cyberchef.io/#recipe=ROT13(true,true,false,13))
+Sample Strings to Decipher
+``
+``
+
 Pico [Where Are The Robots?](https://learn.cylabacademy.org/library/4)
 
 Pico [Roboto Sans](https://learn.cylabacademy.org/library/291)
