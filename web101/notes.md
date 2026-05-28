@@ -40,6 +40,10 @@ String 2
 
 `Vs lbh frr n zrffntr jvgu n ohapu bs fcnprf, vg'f cebonoyl abg Onfr64 rapbqvat.`
 
+Pico [Where Are The Robots?](https://learn.cylabacademy.org/library/4)
+
+Pico [Roboto Sans](https://learn.cylabacademy.org/library/291)
+## Part 4: Cookies
 ### How to Access Cookies in Firefox Browser
 1) Click on the menu (three line) button at the top-right of the window
 2) Click on `More Tools`
@@ -47,10 +51,6 @@ String 2
 4) Click on the `Storage` tab at the top of the new window that appears
 5) Click on the `Cookies` tab on the side-menu
 
-Pico [Where Are The Robots?](https://learn.cylabacademy.org/library/4)
-
-Pico [Roboto Sans](https://learn.cylabacademy.org/library/291)
-## Part 4: Cookies
 Pico [Power Cookie](https://learn.cylabacademy.org/library/288)
 
 Pico [Logon](https://learn.cylabacademy.org/library/46)
