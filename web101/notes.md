@@ -61,9 +61,9 @@ Pico [Cookie Monster Secret Recipe](https://learn.cylabacademy.org/library/469)
 [Lakera.ai - Gandalf](https://gandalf.lakera.ai/baseline)
 
 ## Part 5: HTTP Headers and HTTP Header Injection 
-Pico [Crack the Gate 1](https://learn.cylabacademy.org/library/520)
-
 Pico [Picobrowser](https://learn.cylabacademy.org/library/9)
+
+Pico [Crack the Gate 1](https://learn.cylabacademy.org/library/520)
 ## Part 6: SQL Injection Basics - Login Auth Bypass
 Pico [Irish Name Repo 1](https://learn.cylabacademy.org/library/80)
 
