@@ -56,15 +56,17 @@ Pico [Power Cookie](https://learn.cylabacademy.org/library/288)
 Pico [Logon](https://learn.cylabacademy.org/library/46)
 
 Pico [Cookie Monster Secret Recipe](https://learn.cylabacademy.org/library/469)
-## ! Suddenly AI Hacking !
-### AI Chatbot Hacking Game
-[Lakera.ai - Gandalf](https://gandalf.lakera.ai/baseline)
-
 ## Part 5: HTTP Headers and HTTP Header Injection 
 Pico [Picobrowser](https://learn.cylabacademy.org/library/9)
 
 Pico [Crack the Gate 1](https://learn.cylabacademy.org/library/520)
 ## Part 6: SQL Injection Basics - Login Auth Bypass
+### Example Websites to Try To Break Into
+[OWASP Juice Shop](https://juice-shop.herokuapp.com/#/login)
+
+Pico [More SQLi](https://learn.cylabacademy.org/library/358)
+
+### Challenges
 Pico [Irish Name Repo 1](https://learn.cylabacademy.org/library/80)
 
 Pico [SQLiLite](https://learn.cylabacademy.org/library/304)
