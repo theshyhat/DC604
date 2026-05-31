@@ -57,6 +57,21 @@ Pico [Logon](https://learn.cylabacademy.org/library/46)
 
 Pico [Cookie Monster Secret Recipe](https://learn.cylabacademy.org/library/469)
 ## Part 5: HTTP Headers and HTTP Header Injection 
+### How To Send Modified Requests to Websites in Firefox
+1) Click on the menu (three line) button at the top-right of the window
+2) Click on `More Tools`
+3) Click on `Web Developer Tools`
+4) Click on the `Network` tab at the top of the new window that appears
+5) Click on the `Reload` button on the page
+6) In the list that appears, click on the web request you want to modify and resend (usually the top one)
+7) Right-click the request and select `Edit and Resend`
+8) In the `New Request` tab that appears, scroll down and click the value of any header you want to modify, then type in the value
+9) If you want to create a new header: click on the `name` header at the bottom of the list, the type in the name of the header you want to create, then click on the `value` box and type in the value
+10) Once you've modified the headers to your liking, click on the `Send` button at below all of the headers
+11) A new window should appear with a the response from the webpage on the right-side of the Web Developer Tools window
+### Example Website
+[Example Website](https://example.com)
+### Challenges
 Pico [Picobrowser](https://learn.cylabacademy.org/library/9)
 
 Pico [Crack the Gate 1](https://learn.cylabacademy.org/library/520)
@@ -75,3 +90,5 @@ Pico [Cookies](https://learn.cylabacademy.org/library/173)
 
 Pico [Scavenger Hunt](https://learn.cylabacademy.org/library/161)
 
+## Education Links For Web Security
+[Web App Hacking Education Resources](https://github.com/theshyhat/hackerfrogs/blob/main/education_resources/web_app_hacking.md)
