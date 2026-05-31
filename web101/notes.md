@@ -92,3 +92,10 @@ Pico [Scavenger Hunt](https://learn.cylabacademy.org/library/161)
 
 ## Education Links For Web Security
 [Web App Hacking Education Resources](https://github.com/theshyhat/hackerfrogs/blob/main/education_resources/web_app_hacking.md)
+
+## Other Links
+[My Twitch livestreaming channel](https://www.twitch.tv/theshyhat)
+
+[My YouTube channel](https://www.youtube.com/@theshyhat)
+
+[The slides for this presentation](https://github.com/theshyhat/DC604/blob/main/web101/bsides2026_web_app_101_04.pdf)
