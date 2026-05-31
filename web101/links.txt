@@ -1,0 +1,8 @@
+# Master document link
+https://github.com/theshyhat/DC604/blob/main/web101/notes.md
+# Master document link shortened
+https://bit.ly/4u6AVVc
+# Backup master document
+https://www.reddit.com/r/hackerfrogs/comments/1tsypfr/a_list_of_challenges_for_learning_web_security/
+# Backup master document shortened
+https://bit.ly/431Y3cr
